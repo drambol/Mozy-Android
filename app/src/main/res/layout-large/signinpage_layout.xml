@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bloodyMainLinearLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/gray_android_background"
+    android:orientation="vertical" >
+    
+    <!-- View used for bar layout -->
+    <include layout="@layout/simple_bar_layout" />
+
+    <ScrollView android:id="@+id/ScrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:id="@+id/content_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dip"
+            android:orientation="vertical"
+            android:paddingBottom="40dp" >
+            
+             <RelativeLayout
+                 xmlns:android="http://schemas.android.com/apk/res/android"
+                 android:layout_width="fill_parent"
+                 android:layout_height="fill_parent" >
+
+            <TextView
+                android:id="@+id/signinHelpMessageText"
+                style="@style/MediumWhiteTextAppearance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="0dp"
+                android:text="@string/signin_help_message"
+                android:textSize="25sp" />
+
+            <AutoCompleteTextView
+                android:id="@+id/signInEmailIdEditTextBox"
+                style="@style/styleEditTextBoxLayout"
+                android:layout_width="240dp"
+                android:layout_below="@+id/signinHelpMessageText"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="20dp"
+                android:hint="@string/email_text"
+                android:imeOptions="actionNext"
+                android:inputType="textEmailAddress"
+                android:nextFocusDown="@+id/signInPasswordEditTextBox"
+                android:nextFocusRight="@+id/signInPasswordEditTextBox" />
+
+            <EditText
+                android:id="@+id/signInPasswordEditTextBox"
+                style="@style/styleEditTextBoxLayout"
+                android:layout_width="240dp"
+                android:layout_below="@+id/signInEmailIdEditTextBox"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="20dp"
+                android:hint="@string/password_text"
+                android:imeOptions="actionGo"
+                android:inputType="textPassword"
+                android:nextFocusDown="@+id/signInNextButton"
+                android:nextFocusLeft="@+id/signInEmailIdEditTextBox"
+                android:nextFocusRight="@+id/signInNextButton"
+                android:nextFocusUp="@+id/signInEmailIdEditTextBox" />
+            
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/signInNextButton"
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:nextFocusLeft="@+id/signInPasswordEditTextBox"
+                android:nextFocusUp="@+id/signInEmailIdEditTextBox"
+                android:paddingLeft="60dip"
+                android:paddingRight="60dip"
+                android:text="@string/login" />
+
+            <TextView
+                android:id="@+id/signinErrorMessageText"
+                style="@style/styleErrorMessageText"
+                android:layout_width="wrap_content"
+                android:layout_gravity="top|left|center_horizontal"
+                android:layout_marginTop="10dp"
+                android:paddingLeft="5dp"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/signin_mozy_password_forgot"
+                style="@style/forgotPasswordLink"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/banner_text_forgotpassword" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

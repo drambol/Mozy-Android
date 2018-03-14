@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:versionCode="22"
+    android:versionName="1.7.4"
+    xmlns:android="http://schemas.android.com/apk/res/android" package="com.mozy.mobile.android"
+    android:installLocation="auto">
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+
+    <uses-sdk android:minSdkVersion="8" />
+    
+    <application android:name=".application.DechoClientApplication"
+        android:icon="@drawable/app_icon_ic_launcher" android:label="@string/app_name"
+        android:theme="@style/DefaultTheme" android:enabled="true">
+
+        <activity android:name=".activities.upload.MozyUploadActivity" android:configChanges="keyboardHidden"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+
+        <activity android:name=".activities.upload.FilteringMozyUploadActivity" android:configChanges="keyboardHidden"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+
+            <intent-filter android:label="@string/app_name">
+                <action android:name="android.intent.action.SEND" />
+                <action android:name="android.intent.action.SEND_MULTIPLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="image/*" />
+                <data android:mimeType="audio/*" />
+                <data android:mimeType="video/*" />
+                <data android:mimeType="application/*" />
+                <data android:mimeType="text/xml" />
+                <data android:mimeType="text/html" />
+                <data android:mimeType="text/plain" />
+            </intent-filter>
+        </activity>
+         <activity android:name=".activities.NavigationTabActivity" android:configChanges="keyboardHidden"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name=".activities.AboutActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name=".catch_release.CatchAndReleaseInitialSetupActivity" android:configChanges="keyboardHidden|orientation"
+            android:theme="@style/Theme.Transparent"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name=".activities.DirFileListActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name=".activities.DirPhotoGridActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+         <activity android:name=".activities.DownloadDirFileListActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name=".activities.DownloadDirPhotoGridActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name=".activities.RecentDirFileListActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name=".activities.RecentDirPhotoGridActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+         <activity android:name=".activities.RecentPhotoSlideShowActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name=".activities.PersonalKeysSettingsActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name=".activities.PhotoSlideShowActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name=".activities.MainSettingsActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name=".catch_release.CatchAndReleaseSettingsActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name=".activities.upload.UploadStatusActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name=".activities.StorageUsedActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name=".activities.PinManActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="portrait">
+        </activity>
+         <activity android:name=".activities.QuickAccessScreenActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name=".activities.PhotoSearchDirFileListActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name=".activities.PhotoSearchGridActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        <activity android:name=".activities.PhotoSearchSlideShowActivity" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+         <activity android:name=".activities.SendChooserActivity" android:configChanges="keyboardHidden|orientation"
+            android:theme="@style/Theme.Transparent"
+            android:label="@string/app_name" android:screenOrientation="unspecified">
+        </activity>
+        
+         <activity android:name=".activities.upload.UploadFolderScreenActivity" android:configChanges="keyboardHidden"
+            android:label="@string/app_name" android:screenOrientation="portrait">
+        </activity>
+         
+
+        <!-- Startup activities -->
+        <activity android:name=".activities.startup.AltSignInWebView" android:configChanges="keyboardHidden"
+             android:label="@string/app_name" android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".activities.startup.SignIn" android:configChanges="keyboardHidden"
+             android:label="@string/app_name" android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".activities.startup.FirstRun" android:configChanges="keyboardHidden|orientation"
+             android:label="@string/app_name" android:screenOrientation="portrait">"
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+         <activity android:name=".activities.startup.AltSignInSubDomain" android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name" android:screenOrientation="portrait">
+        </activity>
+        <receiver android:name=".catch_release.CRReceiver" android:enabled="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+                <data android:scheme="file" />
+            </intent-filter>
+            <intent-filter>
+               <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+           </intent-filter>
+           <intent-filter>
+               <action android:name="android.intent.action.USER_PRESENT" />
+           </intent-filter>
+        </receiver>
+
+        <service android:name="com.mozy.mobile.android.service.MozyService" android:enabled="true">
+            <intent-filter>
+                <action android:name="com.mozy.mobile.android.service.MozyService" />
+            </intent-filter>
+        </service>
+
+        <provider android:name=".providers.FileContentProvider" 
+            android:authorities="com.mozy.mobile.android.filecontentprovider"
+            android:enabled="true"
+            android:multiprocess="true"/>
+        
+        <receiver android:name=".activities.DecryptedFilesCleanUpAlarmManager"></receiver>
+
+        <uses-library android:name="android.test.runner" />
+    </application>
+    
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:targetPackage="com.mozy.mobile.android" />
+    <instrumentation
+        android:name="com.mozy.mobile.android.test.StartTest" 
+        android:targetPackage="com.mozy.mobile.android" 
+        android:label="unit test" />
+</manifest>

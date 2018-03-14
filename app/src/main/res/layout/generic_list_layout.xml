@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent">
+    <TextView android:id="@+id/notification" 
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:gravity="center" android:textAppearance="@style/LargeGreyTextAppearance"
+        android:layout_gravity="center" android:text="@string/no_items"
+        android:visibility="invisible" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ListView android:id="@+id/generic_list"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:divider="@android:drawable/divider_horizontal_bright"
+            android:dividerHeight="1dip"
+            android:listSelector="@drawable/selection_list"
+            android:fastScrollEnabled="true"
+            android:cacheColorHint="@color/main_background_color"/>
+        <TextView android:id="@+id/footer_divider"
+            android:background="@android:drawable/divider_horizontal_bright"
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:visibility="gone"/>
+    </LinearLayout>
+</FrameLayout>

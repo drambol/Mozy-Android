@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <com.mozy.mobile.android.views.SlideView
+        android:layout_width="fill_parent" android:layout_height="fill_parent"
+        android:id="@+id/slideshow_slideview" android:background="#ff000000">
+    </com.mozy.mobile.android.views.SlideView>
+
+    <include android:id="@+id/actionview" layout="@layout/actionview_layout"/>
+
+</FrameLayout>
+
+<!-- 
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <com.mozy.mobile.android.views.SlideView
+        android:layout_width="fill_parent" android:layout_height="fill_parent"
+        android:id="@+id/slideshow_slideview" android:background="#ff000000">
+    </com.mozy.mobile.android.views.SlideView>
+</LinearLayout>
+ -->

@@ -1,0 +1,46 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.mozy.mobile.android"
+        minSdkVersion 8
+        targetSdkVersion 8
+
+    }
+
+    signingConfigs{
+        release {
+            storeFile file("mozy-android-1-release")
+            storePassword "^7zPJa3\$(gq"
+            keyAlias "mzyandrd"
+            keyPassword "^7zPJa3\$(gq"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            signingConfig signingConfigs.release
+        }
+    }
+
+    sourceSets {
+        main {
+            jni.srcDirs = []
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+        disable 'MissingTranslation'
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:21.0.3'
+    compile files('libs/bcprov-jdk16-146.jar')
+}

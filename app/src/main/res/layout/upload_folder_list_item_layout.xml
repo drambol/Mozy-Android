@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:id="@+id/listItemLayout"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content"
+    android:padding="2dip"
+    android:layout_gravity="fill_horizontal">
+
+<TextView
+    android:id="@+id/name"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="fill_horizontal"
+    android:drawableLeft="@drawable/folder"
+    android:drawablePadding="20dip"
+    android:ellipsize="end"
+    android:gravity="center_vertical"
+    android:lines="1"
+    android:paddingLeft="20dip"
+    android:text="@+id/name"
+    android:textAppearance="@style/ListViewTextAppearance" >
+
+</TextView>
+</LinearLayout>

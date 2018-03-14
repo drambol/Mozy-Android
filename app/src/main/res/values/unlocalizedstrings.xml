@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- string which need not be localized will come into this file-->
+<resources>
+    <string name="app_name">Mozy</string>
+    <string name="about_screen_publisher_value">Mozy</string>
+    <string name="trustAllCertificates">Trust All Certificates</string>
+    <string name="change_domain_title">Change Domain</string>
+    <string name="change_domain_message">Enter the new Domain</string>
+    <string name="change_domain_port_label">Port:</string>
+    <string name="change_domain_port_hint">Default if blank</string>
+    <string name="change_oauth_client_secret">Secret:</string>
+
+    <string name="upload_sync_path">Mobile Uploads</string>
+
+    <string name="forgot_password_link">https://mozy.com/login/forgot</string>
+    <string name="help_link">http://support.mozy.com/map?mn=android</string>
+    <string name="domain">mip.test.mozy.com</string>
+    <string name="oauth_secret">NkIRTmbrwTC2hNr8</string>
+    <string name="mobile_sync_device_title">Mobile Uploads</string>
+    <string name="sync_title">sync</string>
+     <string name="sync_title_s_caps">Sync</string>
+    <string name="fed_id_subdomain">mozyauth</string>
+    <string name="mozy_auth_server">"auth.test.mozy.com"</string>
+    
+    <string name="quicklist_downloaded_label_docs">SD Card\\Mozy\\Docs</string>
+    <string name="quicklist_downloaded_label_pics">SD Card\\Mozy\\Photos and Videos</string>
+    <string name="quicklist_downloaded_label_music">SD Card\\Mozy\\Music</string>
+    <string name="http_colon">http://</string>
+    <string name="mozypro_dotcom">.mozypro.com</string>
+    <string name="sync_folders_label">Mozy Sync</string>
+</resources>

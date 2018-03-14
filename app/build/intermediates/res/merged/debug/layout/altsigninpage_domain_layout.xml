@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/bloodyMainLinearLayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/gray_android_background"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+    <!-- View used for bar layout -->
+    <include layout="@layout/simple_bar_layout" />
+
+    <ScrollView android:id="@+id/ScrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:id="@+id/content_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dip"
+            android:orientation="vertical"
+            android:paddingBottom="40dp" >
+
+            <TextView
+                android:id="@+id/signinTitleText"
+                style="@style/LargeWhiteTextAppearance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="30dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="0dp"
+                android:text="@string/alternate_signin_page_title" />
+
+            <TextView
+                android:id="@+id/signinSubDomainBodyText"
+                style="@style/MediumWhiteTextAppearance"
+                android:layout_width="170dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="0dp"
+                android:text="@string/alternate_signin_subdomain_page_body" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center|left"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/signinSubDomainTextBoxText1"
+                    style="@style/MediumWhiteTextAppearance"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/http_colon" />
+
+                <EditText
+                    android:id="@+id/alternateSignInSubdomainTextBox"
+                    android:imeOptions="actionNext"
+                    style="@style/styleFedIDSubDomainEditTextFieldLabel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:maxWidth="120dip"
+                    android:hint="@string/alternate_signin_subdomain_textbox_body"
+                    android:inputType="text" />
+
+                <TextView
+                    android:id="@+id/signinSubDomainTextBoxText2"
+                    style="@style/MediumWhiteTextAppearance"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mozypro_dotcom" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/signinErrorMessageText"
+                style="@style/styleErrorMessageText"
+                android:layout_gravity="left"
+                android:paddingLeft="5dp"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>
+

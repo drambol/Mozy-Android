@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="PREFS">SyncAndBackupPreferences</string>
+    <string name="PREFS_USERNAME">username</string>
+    <string name="PREFS_EMAIL_ID">email_id</string>
+    <string name="PREFS_SECURITY_MODE">security_mode</string>
+    <string name="PREFS_HIDDEN_FILE_MODE">hidden_files_mode</string>
+    <string name="PREFS_PIN">pin</string>
+    <string name="PREFS_DOMAINSTRING">domainString</string>
+    <string name="PREFS_MIPPORTSTRING">mipPortString</string>
+    <string name="PREFS_OAUTHSECRET">oAuthSecret</string>
+    <string name="PREFS_ACCEPTALLCERTS">Accept_all_certs</string>
+    <string name="PREFS_INVALIDSIGNINLOCK">invalid_signin_lock</string>
+    <string name="PREFS_UPLOAD_SETTINGS">upload_settings</string>
+    <string name="PREFS_FIRST_RUN_SHOWN">first_run_shown</string>
+    <string name="PREFS_FIRST_RUN_PIN_PROMPT">first_run_pin_prompt</string>
+    <string name="PREFS_MANAGED_KEY">managed_key</string>
+    <string name="PREFS_MIP_ACCOUNT_TOKEN">mip_account_token</string>
+    <string name="PREFS_MIP_ACCOUNT_TOKEN_SECRET">mip_account_token_secret</string>
+    <string name="PREFS_FEDID_SUBDOMAIN">fedid_subdomain</string>
+    <string name="PREFS_USERID">user_id</string>
+</resources>

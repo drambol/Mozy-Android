@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:id="@+id/deviceSubtitle"
+    android:layout_height="10dp"
+    android:orientation="horizontal"
+    android:background="@drawable/search_subtitle_background">
+
+    <TextView
+        android:id="@+id/subtitle"
+        android:paddingLeft="6dip"
+        android:paddingRight="5dip"
+        android:singleLine="true"
+        android:ellipsize="middle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:textAppearance="@style/TitleBarTextAppearance"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center_vertical" />
+
+</RelativeLayout>

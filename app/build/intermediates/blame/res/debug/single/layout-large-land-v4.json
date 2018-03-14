@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-v4\\home_screen_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-large-land\\home_screen_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-v4\\upload_dialog.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-large-land\\upload_dialog.xml"
+    }
+]

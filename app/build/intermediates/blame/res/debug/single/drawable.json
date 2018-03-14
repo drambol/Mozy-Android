@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_grid.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable\\selection_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_unselected.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable\\tab_bg_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_border.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable\\grid_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_selector.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable\\tab_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selection_list.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable\\selection_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_selected.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable\\tab_bg_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_text_selector.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable\\tab_text_selector.xml"
+    }
+]

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#ff000000"
+  android:layout_width="wrap_content"
+  android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:id="@+id/quota_layout"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:layout_marginTop="5dip"
+        android:layout_gravity="center_vertical"
+        android:layout_width="fill_parent">
+
+        <ProgressBar android:id="@+id/quota_progress_bar"
+            android:max="100"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:progressDrawable="@layout/progressbar_drawable"
+            android:layout_width="200dip" 
+            android:layout_gravity="center_horizontal"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id = "@+id/quota_progress_text"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textAppearance="@style/MediumGreyTextAppearance"/>
+
+        <TextView android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:textAppearance="@style/MediumGreyTextAppearance"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="35dip"
+            android:text="@string/settings_storage_increase_quota" />
+
+    </LinearLayout>
+
+    <TextView android:id="@+id/notification"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dip"
+        android:gravity="center_horizontal"
+        android:textAppearance="@style/LargeGreyTextAppearance"
+        android:layout_gravity="center"
+        android:visibility="gone" />
+
+</FrameLayout>

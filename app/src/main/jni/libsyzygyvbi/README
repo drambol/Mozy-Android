@@ -1,0 +1,1 @@
+copy or link protobuf-2.5.0 and syzygyvbi lib code(include syzygy.pb.h and syzygy.pb.cc) here

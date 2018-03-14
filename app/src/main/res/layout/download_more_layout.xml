@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/error_box"
+    android:orientation="horizontal"
+    android:background="@color/download_more_color">
+
+    <Button
+        android:id="@+id/download_more_button"
+        android:layout_width="fill_parent"
+        android:layout_marginTop="5dp"
+        android:layout_height="wrap_content"
+        android:text="@string/next_items" />
+
+</LinearLayout>

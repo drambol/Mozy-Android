@@ -1,0 +1,30 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:id="@+id/pinEntryLayout"
+        android:layout_marginBottom="30dip"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <com.mozy.mobile.android.views.EditTextNoIme
+            android:id="@+id/pinEntry1EditTextBox"
+            style="@style/stylePinEntryBox"/>
+
+        <com.mozy.mobile.android.views.EditTextNoIme
+            android:id="@+id/pinEntry2EditTextBox"
+            style="@style/stylePinEntryBox"/>
+
+        <com.mozy.mobile.android.views.EditTextNoIme
+            android:id="@+id/pinEntry3EditTextBox"
+            style="@style/stylePinEntryBox"/>
+
+        <com.mozy.mobile.android.views.EditTextNoIme
+            android:id="@+id/pinEntry4EditTextBox"
+            style="@style/stylePinEntryBox"/>
+
+    </LinearLayout>
+
+    <include layout="@layout/number_entry"/>
+
+</merge>

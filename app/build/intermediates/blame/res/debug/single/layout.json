@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signinpage_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\signinpage_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_directory_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\grid_directory_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar_activity_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\search_bar_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_more_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\download_more_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\no_bar_activity_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\no_bar_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list_subtitle_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\device_list_subtitle_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_list_item_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\photo_list_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_full_screen.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\photo_full_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\altsigninpage_webview_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\altsigninpage_webview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_screen_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\home_screen_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_layout_mainscreen.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\list_item_layout_mainscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_image_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\grid_image_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\upload_dialog.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\upload_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_entry.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\number_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\upload_folder_list_item_layout_generic.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\upload_folder_list_item_layout_generic.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\altsigninpage_domain_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\altsigninpage_domain_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pin_control.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\pin_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_slideshow_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\photo_slideshow_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_bg_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\tab_bg_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chooser_row_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\chooser_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bar_activity_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\bar_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dropdown_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\dropdown_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\photo_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_subheader_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\settings_subheader_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\list_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\private_key_list_item_layout_main_settings.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\private_key_list_item_layout_main_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_layout_device.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\list_item_layout_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\settings_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\search_bar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progressbar_drawable.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\progressbar_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\storage_used_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\storage_used_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionview_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\actionview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_checkbox_2row.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\settings_checkbox_2row.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab_pager.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\fragment_tab_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\first_run_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\first_run_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\error_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\error_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\upload_folder_list_item_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\upload_folder_list_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pin_man_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\pin_man_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_key_entry.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\personal_key_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_subtitle_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\search_subtitle_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\generic_list_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\generic_list_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_layout_main_settings.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\list_item_layout_main_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_bar_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\simple_bar_layout.xml"
+    }
+]

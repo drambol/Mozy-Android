@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.mozy.mobile.android.views.DownloadMoreView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/gridlayout_view"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <!-- View used for content -->
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent" android:layout_height="fill_parent">
+
+        <GridView android:id="@+id/photo_gridview"
+            android:layout_width="fill_parent" android:layout_height="fill_parent"
+            android:numColumns="auto_fit" android:horizontalSpacing="10dp"
+            android:columnWidth="120dp" android:stretchMode="columnWidth"
+            android:gravity="center" android:layout_marginTop="5dip"
+            android:verticalSpacing="10dip" android:listSelector="@drawable/selection_grid" android:cacheColorHint="@color/main_background_color"/>
+
+        <TextView android:id="@+id/notification" android:singleLine="true"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:gravity="center" android:textAppearance="@style/LargeGreyTextAppearance"
+            android:layout_gravity="center" android:text="@string/no_photos"
+            android:visibility="invisible" />
+
+    </FrameLayout>
+
+    <!-- View used for error message -->
+    <include layout="@layout/download_more_layout" />
+
+</com.mozy.mobile.android.views.DownloadMoreView>
+

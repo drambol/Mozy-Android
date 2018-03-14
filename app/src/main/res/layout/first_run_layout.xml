@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bloodyMainLinearLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/gray_android_background"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/mozyLogo"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="0px"
+        android:src="@drawable/mozylogo_firsttime_signin" />
+
+    <Button
+        android:id="@+id/signInButton"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:text="@string/signin_help_message" />
+
+    <Button
+        android:id="@+id/altSignInButton"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dip"
+        android:text="@string/alternate_signin_title" />
+
+    <TextView
+        style="@style/SpashTextAppearance"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dip"
+        android:gravity="center_horizontal"
+        android:text="@string/first_run_paragraph1" />
+
+    <TextView
+        style="@style/SpashTextAppearance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="8dip"
+        android:gravity="center_horizontal"
+        android:text="@string/first_run_paragraph2" />
+
+    <TextView
+        style="@style/SpashTextAppearance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center_horizontal"
+        android:text="@string/first_run_paragraph3" />
+
+</LinearLayout>

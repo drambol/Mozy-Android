@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:gravity="center_horizontal"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content">
+
+    <LinearLayout
+      android:orientation="horizontal"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/pinEntryButton1"
+            android:text="1"
+            style="@style/styleNumberButton"/>
+        <Button
+            android:id="@+id/pinEntryButton2"
+            android:text="2"
+            style="@style/styleNumberButton"/>
+        <Button
+            android:id="@+id/pinEntryButton3"
+            android:text="3"
+            style="@style/styleNumberButton"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+      android:orientation="horizontal"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/pinEntryButton4"
+            android:text="4"
+            style="@style/styleNumberButton"/>
+        <Button
+            android:id="@+id/pinEntryButton5"
+            android:text="5"
+            style="@style/styleNumberButton"/>
+        <Button
+            android:id="@+id/pinEntryButton6"
+            android:text="6"
+            style="@style/styleNumberButton"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+      android:orientation="horizontal"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/pinEntryButton7"
+            android:text="7"
+            style="@style/styleNumberButton"/>
+        <Button
+            android:id="@+id/pinEntryButton8"
+            android:text="8"
+            style="@style/styleNumberButton"/>
+        <Button
+            android:id="@+id/pinEntryButton9"
+            android:text="9"
+            style="@style/styleNumberButton"/>
+
+    </LinearLayout>
+    
+    <LinearLayout
+      android:orientation="horizontal"
+      android:gravity="center_horizontal"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/pinEntryButton0"
+            android:text="0"
+            style="@style/styleNumberButton"/>
+
+    </LinearLayout>
+        
+</LinearLayout>

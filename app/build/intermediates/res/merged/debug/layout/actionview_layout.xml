@@ -1,0 +1,29 @@
+<com.mozy.mobile.android.views.ActionView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="20dip"
+    android:layout_gravity="center_horizontal|top">
+
+    <Button
+        android:id="@+id/button_export"
+        style="@style/ActionButtonStyle"
+        android:drawableTop="@drawable/ic_menu_share"
+        android:text="@string/share_menu_label"/>
+
+    <Button
+        android:id="@+id/button_download"
+        style="@style/ActionButtonStyle"
+        android:layout_marginLeft="20dip"
+        android:layout_marginRight="20dip"
+        android:drawableTop="@drawable/ic_menu_hires"
+        android:text="@string/menu_hires"/>
+
+    <Button
+        android:id="@+id/button_delete"
+        style="@style/ActionButtonStyle"
+        android:drawableTop="@drawable/ic_menu_delete"
+        android:text="@string/menu_delete"/>
+
+</com.mozy.mobile.android.views.ActionView>

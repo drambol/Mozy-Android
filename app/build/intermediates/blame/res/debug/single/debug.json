@@ -1,0 +1,758 @@
+[
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sync_folder.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\sync_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-land_home_screen_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-xlarge-land\\home_screen_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_icon_ic_launcher.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\app_icon_ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_image_icon_large.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\image_icon_large.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_photo_slideshow_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\photo_slideshow_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_all_files.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\all_files.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_video.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\file_video.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sync_folder_unlocked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\sync_folder_unlocked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_photo_list_item_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\photo_list_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_bar_activity_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\bar_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_layout_main_settings.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\list_item_layout_main_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_directory_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\grid_directory_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_create_folder_plus.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\create_folder_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pin_control.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\pin_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mozy_notification_icon.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\mozy_notification_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_file_word_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\file_word_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_file_blank_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\file_blank_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_file_video_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\file_video_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_file_xls.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\file_xls.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sync_folder_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\sync_folder_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_layout_mainscreen.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\list_item_layout_mainscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_file_pdf_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\file_pdf_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_file_word.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\file_word.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gray_android_background.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\gray_android_background.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grid_border.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable\\grid_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_progressbar_drawable.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\progressbar_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mymozy.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\mymozy.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_file_xls_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\file_xls_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mozy_tabbar_icon.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\mozy_tabbar_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_downloaded.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\home_downloaded.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_file_pdf_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\file_pdf_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_settings.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_xls_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\file_xls_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_layout_device.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\list_item_layout_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_computer.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\computer.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_bar_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\search_bar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\list_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_warning.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gallery_view.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\gallery_view.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_altsigninpage_webview_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\altsigninpage_webview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_file_blank.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\file_blank.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_folder_gallery_view.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\folder_gallery_view.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_bg_unselected.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable\\tab_bg_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_docs.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\home_docs.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_download_more_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\download_more_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_pdf.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\file_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_bg_selected.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable\\tab_bg_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_blank.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\file_blank.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_anim_sync1.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\anim_sync1.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_error_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\error_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_button_new.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\search_button_new.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_error_icon.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\error_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_subtitle_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\search_subtitle_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_img.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\file_img.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_subheader_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\settings_subheader_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_save.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_save.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_hires.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_hires.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_xls.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\file_xls.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_file_ppt.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\file_ppt.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_android_background.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\android_background.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_photos.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\home_photos.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_file_word.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\file_word.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_first_run_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\first_run_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_videos.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\home_videos.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_generic_list_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\generic_list_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_music.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\file_music.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_recent.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\home_recent.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_no_bar_activity_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\no_bar_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sync_folder_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\sync_folder_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gallery_view.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\gallery_view.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_bg_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\tab_bg_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_file_music.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\file_music.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_upload_dialog.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\upload_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dropdown_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\dropdown_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_file_img_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\file_img_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_upload_dialog.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-large\\upload_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_allfiles.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\allfiles.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_file_ppt_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\file_ppt_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_home_screen_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-xlarge\\home_screen_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_bg_selector.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable\\tab_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_checkbox_2row.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\settings_checkbox_2row.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_folder.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\folder.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_storage_used_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\storage_used_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_error_icon.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\error_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_placeholder_icon_small.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\placeholder_icon_small.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_textfield_search_default.9.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\textfield_search_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_android_background.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\android_background.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_videos.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\home_videos.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_file_xls.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\file_xls.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_delete.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_bar_activity_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\search_bar_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_file_pdf.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\file_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_file_xls_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\file_xls_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_warning.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_recent.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\home_recent.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selection_list.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable\\selection_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_file_video.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\file_video.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_file_word_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\file_word_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_file_blank.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\file_blank.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_upload_folder_list_item_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\upload_folder_list_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_video_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\file_video_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_device_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\device_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_list_subtitle_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\device_list_subtitle_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_refresh.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_pager.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\fragment_tab_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_photo_small.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\photo_small.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_settings.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_private_key_list_item_layout_main_settings.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\private_key_list_item_layout_main_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mymozy.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\mymozy.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_device_unlocked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\device_unlocked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_file_img.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\file_img.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_file_img.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\file_img.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gray_android_background.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\gray_android_background.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sync_folder_unlocked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\sync_folder_unlocked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_app_icon_ic_launcher.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\app_icon_ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_first_run_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-large\\first_run_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_imagestack_placeholder_v5_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\imagestack_placeholder_v5_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_screen_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\home_screen_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_downloaded.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\home_downloaded.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_signinpage_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\signinpage_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_pdf_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\file_pdf_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_divider.9.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\tab_divider.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_blank_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\file_blank_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_pin_man_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\pin_man_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_file_blank_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\file_blank_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mymozy.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\mymozy.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sync_folder.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\sync_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_photos.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\home_photos.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_music.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\home_music.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_allfiles.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\allfiles.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selection_grid.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable\\selection_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_imagestack_placeholderv5.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\imagestack_placeholderv5.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_music_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\file_music_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_number_entry.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\number_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_upload_dialog.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-land\\upload_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_file_video_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\file_video_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mozy_notification_icon.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\mozy_notification_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_word.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\file_word.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_img_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\file_img_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_roundrect_v2.9.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\roundrect_v2.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_all_files.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\all_files.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mozylogo_firsttime_signin.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\mozylogo_firsttime_signin.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_signinpage_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-xlarge\\signinpage_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_file_img_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\file_img_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_image_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\grid_image_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_device_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\device_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_file_music.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\file_music.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_upload_folder_list_item_layout_generic.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\upload_folder_list_item_layout_generic.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_file_music_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\file_music_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_file_ppt_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\file_ppt_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_bar_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\simple_bar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_word_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\file_word_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_share.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_altsigninpage_domain_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\altsigninpage_domain_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_folder_gallery_view.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\folder_gallery_view.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_create_folder_plus.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\create_folder_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_home_screen_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-land\\home_screen_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_all_files.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\all_files.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sync_folder_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\sync_folder_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_subtitle_background.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\search_subtitle_background.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_docs.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\home_docs.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_music.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\home_music.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_signinpage_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-large\\signinpage_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_device_unlocked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\device_unlocked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_upload_dialog.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-large-land\\upload_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_file_ppt.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\file_ppt.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_folder.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\folder.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_create_folder_plus.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\create_folder_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_ppt_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\file_ppt_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_home_screen_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-large\\home_screen_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_actionview_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\actionview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_photo_full_screen.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\photo_full_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_personal_key_entry.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\personal_key_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_photo_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\photo_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_file_music_locked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\file_music_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_ppt.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\file_ppt.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_key.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\key.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\settings_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sync_folder_unlocked.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\sync_folder_unlocked.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_text_selector.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable\\tab_text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_file_video.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\file_video.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_file_pdf.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\file_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_chooser_row_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout\\chooser_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_allfiles.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\allfiles.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_altsigninpage_domain_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-large\\altsigninpage_domain_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sync_folder.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-hdpi\\sync_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_settings.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-xhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gallery_view.png.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\drawable-mdpi\\gallery_view.png"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_home_screen_layout.xml.flat",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-large-land\\home_screen_layout.xml"
+    }
+]

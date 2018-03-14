@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+
+    <com.mozy.mobile.android.views.ErrorView 
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" 
+        android:id="@+id/error_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <!-- View used for content -->
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/content" />
+
+        <!-- View used for error message -->
+        <include layout="@layout/error_layout" />
+
+        <!-- View used for bar layout -->
+        <include layout="@layout/simple_bar_layout" />
+
+    </com.mozy.mobile.android.views.ErrorView>
+
+</LinearLayout>

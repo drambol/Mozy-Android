@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\home_screen_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-large\\home_screen_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\signinpage_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-large\\signinpage_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\upload_dialog.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-large\\upload_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\first_run_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-large\\first_run_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\altsigninpage_domain_layout.xml",
+        "source": "C:\\Users\\xuk7\\workspace\\mozymobile-android\\app\\src\\main\\res\\layout-large\\altsigninpage_domain_layout.xml"
+    }
+]

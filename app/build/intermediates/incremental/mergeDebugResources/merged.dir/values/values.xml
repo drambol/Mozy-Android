@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="file_sizes_array">
+        <item>bytes</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+        <item>TB</item>
+        <item>PB</item>
+    </string-array>
+    <color name="clickable_text_color">#3399cc</color>
+    <color name="download_more_color">#aa000000</color>
+    <color name="error_box_color">#ffffc0</color>
+    <color name="error_text_color">#ff0000</color>
+    <color name="forgot_password_link_color">#ff9900</color>
+    <color name="grid_item_border">#eeeeee</color>
+    <color name="main_background_color">#ffffffff</color>
+    <color name="main_text_color">#ff1f1f1f</color>
+    <color name="main_text_lightgrey_color">#ff999999</color>
+    <color name="settings_subheader_background">#212021</color>
+    <color name="settings_subheader_text">#ff999999</color>
+    <color name="splashColor">#D3D3D3</color>
+    <color name="transparent_color">#00000000</color>
+    <color name="white_color">#ffffff</color>
+    <string name="Decrypting_File">Decrypting …</string>
+    <string name="PREFS">SyncAndBackupPreferences</string>
+    <string name="PREFS_ACCEPTALLCERTS">Accept_all_certs</string>
+    <string name="PREFS_DOMAINSTRING">domainString</string>
+    <string name="PREFS_EMAIL_ID">email_id</string>
+    <string name="PREFS_FEDID_SUBDOMAIN">fedid_subdomain</string>
+    <string name="PREFS_FIRST_RUN_PIN_PROMPT">first_run_pin_prompt</string>
+    <string name="PREFS_FIRST_RUN_SHOWN">first_run_shown</string>
+    <string name="PREFS_HIDDEN_FILE_MODE">hidden_files_mode</string>
+    <string name="PREFS_INVALIDSIGNINLOCK">invalid_signin_lock</string>
+    <string name="PREFS_MANAGED_KEY">managed_key</string>
+    <string name="PREFS_MIPPORTSTRING">mipPortString</string>
+    <string name="PREFS_MIP_ACCOUNT_TOKEN">mip_account_token</string>
+    <string name="PREFS_MIP_ACCOUNT_TOKEN_SECRET">mip_account_token_secret</string>
+    <string name="PREFS_OAUTHSECRET">oAuthSecret</string>
+    <string name="PREFS_PIN">pin</string>
+    <string name="PREFS_SECURITY_MODE">security_mode</string>
+    <string name="PREFS_UPLOAD_SETTINGS">upload_settings</string>
+    <string name="PREFS_USERID">user_id</string>
+    <string name="PREFS_USERNAME">username</string>
+    <string name="about_screen_copyright_label">Copyright</string>
+    <string name="about_screen_copyright_value">\u00A9 2011 - 2014 Mozy, Inc. All rights reserved.</string>
+    <string name="about_screen_publisher_label">Publisher</string>
+    <string name="about_screen_publisher_value">Mozy</string>
+    <string name="about_screen_version_label">Version</string>
+    <string name="account_conflict_message">You cannot use the same email and password for multiple Mozy accounts. Please update your sign in information and try again.</string>
+    <string name="ago">ago</string>
+    <string name="alert_dialog_retry">Retry</string>
+    <string name="alert_sdcard_absent">SDCard not found!</string>
+    <string name="alternate_signin_page_title">Alternate Sign In</string>
+    <string name="alternate_signin_subdomain_page_body">Please enter your provider\'s subdomain:</string>
+    <string name="alternate_signin_subdomain_textbox_body">subdomain</string>
+    <string name="alternate_signin_title">Use Alternate Sign In</string>
+    <string name="app_name">Mozy</string>
+    <string name="authorization_error">"Mozy encountered an authorization error. Please try again. If you continue to receive an error, contact Mozy Support."</string>
+    <string name="banner_text_forgotpassword"><u>Forgot your password?</u></string>
+    <string name="banner_text_link_forgotpin"><u>Forgot passcode?</u></string>
+    <string name="c_and_r_initial_prompt">You can automatically upload your photos and videos to Mozy. Uploading happens in the background, so that you can continue to work. Would you like to enable this feature?</string>
+    <string name="cancel_button_text">Cancel</string>
+    <string name="cannot_view_file">Cannot View File</string>
+    <string name="change_domain_message">Enter the new Domain</string>
+    <string name="change_domain_port_hint">Default if blank</string>
+    <string name="change_domain_port_label">Port:</string>
+    <string name="change_domain_title">Change Domain</string>
+    <string name="change_oauth_client_secret">Secret:</string>
+    <string name="change_pin_toast">Your new passcode has been saved. Use your passcode to sign in.</string>
+    <string name="client_upgrade_required">Mozy must be upgraded to the latest version.</string>
+    <string name="client_upgrade_title">Upgrade Required</string>
+    <string name="cloud_file_newer">There is an older version of this file on your device.\n\nDo you want to replace it with the newer Mozy version?</string>
+    <string name="day">day</string>
+    <string name="days">days</string>
+    <string name="delete_confirmation">Are you sure you want to delete $FILENAME?</string>
+    <string name="delete_fail_body">Could not delete the file.</string>
+    <string name="delete_local_file_title">Delete Local File?</string>
+    <string name="delete_sdcard_file_body">Delete $FILENAME from your SD card? (This will NOT delete it from Mozy.)</string>
+    <string name="device_revoked_body">Access to Mozy from this device has been revoked.</string>
+    <string name="devices_label">Backups</string>
+    <string name="domain">ut1-cas.mozy.com</string>
+    <string name="download_prompt">Do you want to download this file?</string>
+    <string name="email_text">Email address</string>
+    <string name="empty_sync_container">Mozy Sync lets you keep the files you work with most often updated and available on each of the computers and devices you use. With your Mozy username and password, you can install Mozy Sync on any computer.</string>
+    <string name="enable_pin_dialog_message">Would you like to use a passcode for more secure access to your files?</string>
+    <string name="enable_pin_dialog_title">Enable Passcode?</string>
+    <string name="encrypted_device_first_time_prompt_message">"You have protected your files with personal key encryption. To view these files, would you like to enter your personal key?"</string>
+    <string name="encrypted_device_first_time_warn_message">You can not view or share files from this backup without entering your personal key.</string>
+    <string name="endoflist_reached">Moving to start of list…</string>
+    <string name="error">Error</string>
+    <string name="error_not_available">A network error occurred. Please check your connection settings and try again.</string>
+    <string name="error_signin_too_many_times">For security reasons you must now wait 10 min before making another attempt to sign in.</string>
+    <string name="errormessage_authorization_failure">Authorization failure</string>
+    <string name="errormessage_authorization_failure_signin">Check your username and password and try again</string>
+    <string name="errormessage_email_not_valid">Please enter a valid email address.</string>
+    <string name="errormessage_email_text_empty">Please enter a valid email address.</string>
+    <string name="errormessage_invalid_pin">Invalid passcode. Select <b>Forgot Passcode</b> to change your passcode.</string>
+    <string name="errormessage_password_text_empty">Please enter your password.</string>
+    <string name="errormessage_passwords_contains_whitespaces">Your password cannot contain spaces. Please enter your password again</string>
+    <string name="errormessage_pins_donotmatch">Your passcode and confirm passcode entries do not match. Please enter them again.</string>
+    <string name="errormessage_pins_pin_empty">Please enter a passcode.</string>
+    <string name="errormessage_pins_pin_not_4digit">Your passcode must be a 4-digit number.</string>
+    <string name="eula_accept">Accept</string>
+    <string name="eula_refuse">Decline</string>
+    <string name="eula_text"><b>END-USER LICENSE AGREEMENT (\u0022EULA\u0022), MOZY FOR ANDROID</b>\n
+\nThis EULA is a legal agreement between you (\u0022You\u0022) and Mozy Inc. (\u0022Mozy\u0022) and governs your use of the Mozy mobile application (“Software\u0022). You acknowledge and agree that to the extent not in conflict with this EULA, your use of the Mozy online services and website will be subject to the Mozy Terms of Service (http://mozy.com/terms) and Privacy Policy (http://mozy.com/privacy).\n
+\n1. <b>License.</b> Subject to the terms of this EULA, Mozy grants You a limited, non-exclusive, non-transferable and revocable license to use the Software on any mobile device owned or controlled by You that can access the Android Market site operated by Google Inc.\n
+\n2. <b>Maintenance &amp; Support.</b> You acknowledge that while Mozy may provide maintenance and support for the Software from time to time, Mozy will have no obligation whatsoever to furnish such services to You and may terminate such services at any time without notice.\n
+\n3. <b>No Warranty. YOU AGREE THAT YOUR USE OF THE SOFTWARE IS AT YOUR SOLE RISK, AND THE SOFTWARE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. MOZY, ITS SUPPLIERS AND THEIR RESPECTIVE AFFILIATES EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.</b>\n
+\n4. <b>Limitation of Liability. BECAUSE SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SOME OF THE EXCLUSIONS OR LIMITATIONS SET FORTH BELOW MAY NOT APPLY TO YOU.\n
+\nYOU SPECIFICALLY AGREE THAT MOZY, ITS SUPPLIERS AND THEIR RESPECTIVE AFFILIATES WILL NOT BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES , INCLUDING DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR OTHER INTANGIBLE LOSSES (EVEN IF THE PARTY YOU ARE SEEKING DAMAGES AGAINST HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM THE USE OR INABILITY TO USE THE SOFTWARE OR IN ANY WAY RELATING TO THE SOFTWARE.\n
+\nYOU AGREE THAT THE AGGREGATE LIABILITY OF MOZY, ITS SUPPLIERSS AND THEIR RESPECTIVE AFFILIATES FOR ANY AND ALL CLAIMS IN CONNECTION WITH THE SOFTWARE IS LIMITED TO TWENTY US DOLLARS ($20). YOU SPECIFICALLY AGREE THAT THIS DAMAGES LIMITATION IS A FUNDAMENTAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN YOU AND MOZY.</b>\n
+\n5. <b>Intellectual Property Protection.</b> Mozy respects the intellectual property of others and requires that users of the Software do the same. When You use the Software, You may not upload, store, share, display, post, e-mail, transmit or otherwise make available any material that infringes any copyright, patent, trademark, trade secret or other proprietary rights of any person or entity. In appropriate circumstances, Mozy will terminate the accounts of repeat infringers.\n
+\n6. <b>Legal Compliance &amp; Acceptable Use.</b> You represent and warrant that (i) You are not located in a country that is subject to a U.S. Government embargo, or that that has been designated by the U.S. Government as a “terrorist supporting\u0022 country; and (ii) You are not listed on any U.S. Government list of prohibited or restricted parties. You specifically agree that You will not use the Software to (i) violate any laws or regulations; (ii) infringe the intellectual property or other rights of third parties; or (iii) transmit any materials that contain viruses or other harmful computer code or files such as Trojan Horses, worms or time bombs.\n
+\n7. <b>Third Party Agreements.</b> You must comply with any applicable third party terms of agreement when using the Software. In particular, You acknowledge that use of the Software may result in increased charges from your wireless carrier and that You are solely responsible for paying such charges \n
+\n8. <b>General.</b> This EULA and the relationship between You and Mozy will be governed by the laws of the State of Washington, excluding its conflicts of law provisions. You agree to submit to the personal and exclusive jurisdiction of the courts located in Seattle, Washington to resolve any dispute or claim arising from this EULA. As to intellectual property rights, You specifically agree that Mozy may file an action in any jurisdiction to protect or enforce its rights. The United Nations Convention on Contracts for the International Sale of Goods will not apply to this EULA. You agree that any claim or cause of action related to this EULA or the use of the Software must be filed within one (1) year after the cause of action arose or be forever barred. You may not assign or transfer any of your rights or obligations under this EULA to a third party without the prior written consent of Mozy. Mozy may freely assign this EULA.\n
+\nLast revised: March 2, 2011
+</string>
+    <string name="eula_title">License Agreement</string>
+    <string name="fed_id_subdomain">mozyauth</string>
+    <string name="feedback_chooser_title">MozyMobile: Send us your feedback</string>
+    <string name="feedback_email">mm-feedback@mozy.com</string>
+    <string name="feedback_subject">MozyMobile Feedback</string>
+    <string name="file_list_detail">$SIZE, modified $DATE</string>
+    <string name="file_options_title">File Options</string>
+    <string name="first_run_paragraph1">Access your files from anywhere at any time with the Mozy Android app.</string>
+    <string name="first_run_paragraph2">Not a Mozy user?</string>
+    <string name="first_run_paragraph3">Sign up today at Mozy.com</string>
+    <string name="folder_options_title">Folder Options</string>
+    <string name="forgot_password_dialog_body">You must sign out then sign in again if you have forgotten your passcode. Sign out now?</string>
+    <string name="forgot_password_dialog_title">Passcode Help</string>
+    <string name="forgot_password_link">https://mozy.com/login/forgot</string>
+    <string name="form_field_confirm_newpin_text">Confirm new:</string>
+    <string name="form_field_currentpin_text">Current passcode:</string>
+    <string name="form_field_newpin_text">New passcode:</string>
+    <string name="help_link">http://support.mozy.com/map?mn=android</string>
+    <string name="hour">hour</string>
+    <string name="hours">hours</string>
+    <string name="http_colon">http://</string>
+    <string name="invalid_certificate">The certificate for this server is invalid. You might be connecting to a server that is pretending to be \"$URL\", which could put your information at risk.</string>
+    <string name="invalid_partner_message">You are not currently authorized for mobile access. Please contact your MozyPro administrator for assistance.</string>
+    <string name="invalid_user">"Check your username and password and try again."</string>
+    <string name="last_backed_up">Last backed up</string>
+    <string name="login">Sign In</string>
+    <string name="login_page_heading_text">Enter your passcode:</string>
+    <string name="managed_key_could_not_be_retrieved">The encryption key could not be retrieved. Please contact your MozyPro administrator.</string>
+    <string name="managed_key_empty">The encryption key is empty. Please contact your MozyPro administrator.</string>
+    <string name="managed_key_failed_to_decrypt">The encryption key failed to decrypt this file. Please contact your MozyPro administrator.</string>
+    <string name="managed_key_failed_validation">The encryption key could not be validated. Please contact your MozyPro administrator.</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_download">Download</string>
+    <string name="menu_files">All Files</string>
+    <string name="menu_files_view">File view</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_hires">High res</string>
+    <string name="menu_home">My Mozy</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_upload">Upload</string>
+    <string name="minute">minute</string>
+    <string name="minutes">minutes</string>
+    <string name="mobile_sync_device_title">Mobile Uploads</string>
+    <string name="month">month</string>
+    <string name="months">months</string>
+    <string name="mozy_account_issue">Mozy Account Issue</string>
+    <string name="mozy_account_not_created">Your Mozy account setup does not appear to have completed. Please contact Mozy support for assistance.</string>
+    <string name="mozy_auth_server">"auth2.mozy.com"</string>
+    <string name="mozy_authentication_progress_dialog_text">Verifying…</string>
+    <string name="mozy_ver_recent_body">Your Mozy version is more recent, update local file?</string>
+    <string name="mozypro_dotcom">.mozypro.com</string>
+    <string name="never_backed_up">Never Backed Up</string>
+    <string name="next_items">Download more items</string>
+    <string name="no_button_text">No</string>
+    <string name="no_containers">Unable to sign in to Mozy. You must have at least one computer associated with your account.</string>
+    <string name="no_downloads">You have not viewed any files.</string>
+    <string name="no_file_updates">No files have been updated in the last 7 days</string>
+    <string name="no_items">No items found</string>
+    <string name="no_photos">No photos to display</string>
+    <string name="not_logged_in_for_share">You must sign into Mozy Mobile to share to Mozy</string>
+    <string name="oauth_secret">NkIRTmbrwTC2hNr8</string>
+    <string name="ok_button_text">OK</string>
+    <string name="open_menu_label">Open</string>
+    <string name="overwrite_button_text">Overwrite</string>
+    <string name="password_text">Password</string>
+    <string name="personal_key_settings">Personal Key Settings</string>
+    <string name="phone_file_newer">There is a newer version of this file on your device.\n\nDo you want to replace it with the older Mozy version?</string>
+    <string name="photo_detail_label_camera_manufacturer">Camera:</string>
+    <string name="photo_detail_label_filename">Filename:</string>
+    <string name="photo_detail_label_kbsize">Size:</string>
+    <string name="photo_detail_label_resolution">Resolution:</string>
+    <string name="photo_detail_label_taken_date">Date taken:</string>
+    <string name="photo_details_headline">Details</string>
+    <string name="photos_only">Gallery view</string>
+    <string name="pin_error_title">Passcode Error</string>
+    <string name="private_key_edit">Edit personal key</string>
+    <string name="private_key_encrypted_file_decrypt_fail_message">This file could not be decrypted with your current personal key. Do you want to enter a different personal key?</string>
+    <string name="private_key_enter">Enter Personal Key</string>
+    <string name="private_key_erase_warning">You will not be able to view your protected files if you delete your personal key. Are you sure you want to delete your personal key?</string>
+    <string name="private_key_forget">Forget personal key</string>
+    <string name="private_key_none_message">This file is protected with personal key encryption. Would you like to enter your personal key so you can view this file?"</string>
+    <string name="private_key_save_confirmation">Your personal key was successfully saved.</string>
+    <string name="private_key_settings_container_subtitle">Enter or edit personal key</string>
+    <string name="private_key_settings_dialog_checkbox_title">Show Personal Key</string>
+    <string name="private_key_settings_dialog_message">Personal Key</string>
+    <string name="progress_bar_downloading_files">Downloading to SD Card/Mozy</string>
+    <string name="progress_bar_loading">Loading …</string>
+    <string name="progress_bar_searching">Searching …</string>
+    <string name="quicklist_downloaded_label_docs">SD Card\\Mozy\\Docs</string>
+    <string name="quicklist_downloaded_label_music">SD Card\\Mozy\\Music</string>
+    <string name="quicklist_downloaded_label_pics">SD Card\\Mozy\\Photos and Videos</string>
+    <string name="quicklists_label_downloaded">Downloaded</string>
+    <string name="quicklists_label_recently_added">Recent</string>
+    <string name="quota_used">($USED% of $QUOTAGB used)</string>
+    <string name="replace_button_text">Replace</string>
+    <string name="roaming_download_warning">You are on a roaming network. Do you want to download this file?</string>
+    <string name="save_button_text">Save</string>
+    <string name="search">Search</string>
+    <string name="search_documents">Documents</string>
+    <string name="search_music">Music</string>
+    <string name="search_no_results_prompt_text">No matching file was found for search \'$SEARCH\'.</string>
+    <string name="search_no_results_prompt_title">No match</string>
+    <string name="search_photos">Photos</string>
+    <string name="search_results_title">Search Results in $NAME</string>
+    <string name="search_video">Videos</string>
+    <string name="second">second</string>
+    <string name="seconds">seconds</string>
+    <string name="settings_hidden_files_summary">Display hidden files</string>
+    <string name="settings_main_item_subtitle_about">About Mozy for Android</string>
+    <string name="settings_main_item_subtitle_logoff">Disconnect from your Mozy account</string>
+    <string name="settings_main_item_subtitle_passcode">Lock Mozy access with a passcode</string>
+    <string name="settings_main_item_subtitle_passcode_change">Change your passcode</string>
+    <string name="settings_main_item_subtitle_personal_keys">Manage personal key decryption</string>
+    <string name="settings_main_item_subtitle_settings">Automatic Photo/Video Upload</string>
+    <string name="settings_main_item_subtitle_space">How much Mozy storage you have available</string>
+    <string name="settings_main_item_subtitle_status">View File Upload Progress</string>
+    <string name="settings_main_item_title_about">About</string>
+    <string name="settings_main_item_title_logoff">Sign Out</string>
+    <string name="settings_main_item_title_passcode">Passcode Lock</string>
+    <string name="settings_main_item_title_passcode_change">Change passcode</string>
+    <string name="settings_main_item_title_personal_keys">Personal Keys</string>
+    <string name="settings_main_item_title_settings">Upload Settings</string>
+    <string name="settings_main_item_title_space">Storage Space Used</string>
+    <string name="settings_main_item_title_status">Upload Status</string>
+    <string name="settings_main_item_title_user">Mozy User</string>
+    <string name="settings_main_label_security">Security</string>
+    <string name="settings_main_label_upload">Uploads</string>
+    <string name="settings_main_logoff_prompt_title">Are you sure that you want to sign out from Mozy?</string>
+    <string name="settings_main_logoff_prompt_title_long">Signing out of your Mozy account will clear the queue of files waiting to be uploaded to your online $SYNC folder. Sign out of Mozy?</string>
+    <string name="settings_manual_upload_help">To manually upload photos or videos, share them to Mozy from the gallery application.</string>
+    <string name="settings_no_voice_calls">If you are on a 2G network, you may miss voice calls when data is being transferred on the network.</string>
+    <string name="settings_option_auto_photo_summary">Upload photos as I take them</string>
+    <string name="settings_option_auto_photos">Automatic Photo Upload</string>
+    <string name="settings_option_auto_video_summary">Upload videos as I take them</string>
+    <string name="settings_option_auto_videos">Automatic Video Upload</string>
+    <string name="settings_option_manual_upload_help">Manual Upload Help</string>
+    <string name="settings_option_manual_upload_help_summary">Instructions for manual upload</string>
+    <string name="settings_option_roaming">Never when Roaming</string>
+    <string name="settings_option_roaming_summary">Avoid unexpected data charges</string>
+    <string name="settings_option_wifi">Only On WiFi</string>
+    <string name="settings_option_wifi_summary">Recommended if you upload videos</string>
+    <string name="settings_storage_increase_quota">Increase storage here</string>
+    <string name="settings_storage_quota_nocloud">Your account is not set up for upload.</string>
+    <string name="settings_storage_quota_progress">You have $PERCENTAGE% of $GIGABYTESGB free.</string>
+    <string name="settings_upload_automatic_section">Automatic Upload</string>
+    <string name="settings_upload_method">Upload Method</string>
+    <string name="share_menu_label">Share</string>
+    <string name="signin_help_message">Sign in to Mozy</string>
+    <string name="startoflist_reached">Moving to end of list…</string>
+    <string name="subdomain_not_verified_body">The subdomain entered could not be verified. Please check that the information has been entered correctly and try again.</string>
+    <string name="sync_folders_label">Mozy Sync</string>
+    <string name="sync_title">sync</string>
+    <string name="sync_title_s_caps">Sync</string>
+    <string name="trustAllCertificates">Trust All Certificates</string>
+    <string name="update_local_file_title">Update Local File?</string>
+    <string name="upload_cancel_all">All</string>
+    <string name="upload_cancel_current">Current</string>
+    <string name="upload_cancel_message">Cancel current upload or all uploads?</string>
+    <string name="upload_cancel_none">None</string>
+    <string name="upload_cancel_title">Cancel Upload</string>
+    <string name="upload_choose_button_text">Choose</string>
+    <string name="upload_chooser_title">Send this file via:</string>
+    <string name="upload_dialog_choose_folder">Choose folder to upload to:</string>
+    <string name="upload_dialog_size">(total $FILESIZE)</string>
+    <string name="upload_dialog_summary_multi">$NUMFILES file(s) $TOTALSIZE will be uploaded to your online $SYNC folder.</string>
+    <string name="upload_dialog_title">Upload to your online $SYNC folder:</string>
+    <string name="upload_done_notification_body">$NUMFILES file(s) $TOTALSIZE uploaded</string>
+    <string name="upload_failed_forbidden_error">Could not upload the file. You may have exceeded your $SYNC storage limit.</string>
+    <string name="upload_failed_generic_title_text">There may be an internet connectivity problem, or you may have exceeded your $SYNC storage limit.</string>
+    <string name="upload_failed_internet_connectivity_title_text">Upload failed due to intermittent internet connectivity</string>
+    <string name="upload_failed_quota_exceeded_title_text">You have exceeded your $SYNC storage limit</string>
+    <string name="upload_failed_server_not_found_title_text">Could not find the Mozy server</string>
+    <string name="upload_failed_title_text">Upload failed</string>
+    <string name="upload_files_remaining_body">$NUMFILES Remaining,</string>
+    <string name="upload_new_sync_folder_duplicate_mesg">A file/folder with this name already exists. Please try again.</string>
+    <string name="upload_new_sync_folder_duplicate_title">Duplicate Name</string>
+    <string name="upload_new_sync_folder_invalid_name_mesg">Name includes invalid characters (\ / : * ? " &lt; > |). Please try again.</string>
+    <string name="upload_new_sync_folder_invalid_name_title">Invalid Name</string>
+    <string name="upload_new_sync_folder_message">Enter folder name:</string>
+    <string name="upload_new_sync_folder_title">Create new $SYNC folder</string>
+    <string name="upload_no_roaming_notification_body">Suspended for Roaming</string>
+    <string name="upload_no_wifi_notification_body">Waiting for WiFi</string>
+    <string name="upload_notification_title">Mozy Uploads</string>
+    <string name="upload_pending_notification_body">Current $TOTALSIZE</string>
+    <string name="upload_remove_from_queue_text">Remove from Queue</string>
+    <string name="upload_retry_text">Retry Upload</string>
+    <string name="upload_status_fail_upload_text">$NUMFILES file(s),</string>
+    <string name="upload_status_failed_uploads_label">Failed to Upload</string>
+    <string name="upload_status_screen_file">file,</string>
+    <string name="upload_status_screen_files">files,</string>
+    <string name="upload_status_screen_number_label">Files Pending</string>
+    <string name="upload_status_screen_time_label">Estimated Time to Complete</string>
+    <string name="upload_status_tap_to_cancel">, Tap to Cancel</string>
+    <string name="upload_sync_newer_file_on_device">There is a newer version of this file on your device. Do you want to upload this newer version to Mozy or replace it with the Mozy version?</string>
+    <string name="upload_sync_not_setup">$SYNC_UPPERCASE is not set up for this account.</string>
+    <string name="upload_sync_path">Mobile Uploads</string>
+    <string name="upload_tap_to_retry_text">Tap to Retry</string>
+    <string name="view_menu_label">View</string>
+    <string name="warning">Warning</string>
+    <string name="week">week</string>
+    <string name="weeks">weeks</string>
+    <string name="year">year</string>
+    <string name="years">years</string>
+    <string name="yes_button_text">Yes</string>
+    <style name="ActionButtonStyle">
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:textColor">#FF9A9A9A</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:background">#00FFFFFF</item>
+    <item name="android:clickable">true</item>
+</style>
+    <style name="DefaultList" parent="@android:style/Widget.ListView">
+    <item name="android:divider">@color/main_background_color</item>
+    <item name="android:dividerHeight">0dp</item>
+</style>
+    <style name="DefaultTheme" parent="android:Theme.Light">
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:listViewStyle">@style/DefaultList</item>
+<!--    <item name="android:textColor">#000</item>-->
+</style>
+    <style name="ExtraSmallWhiteTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">12sp</item>
+    <item name="android:textColor">@color/white_color</item>
+</style>
+    <style name="LargeGreyTextAppearance" parent="@style/LargeTextAppearance">
+    <item name="android:textColor">@color/main_text_lightgrey_color</item>
+</style>
+    <style name="LargeTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">18sp</item>
+     <item name="android:textColor">@color/main_text_color</item>
+</style>
+    <style name="LargeWhiteTextAppearance" parent="@style/LargeTextAppearance">
+    <item name="android:textColor">@color/white_color</item>
+</style>
+    <style name="ListViewSecondaryTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">13sp</item>
+    <item name="android:textColor">@color/main_text_lightgrey_color</item>
+</style>
+    <style name="ListViewSubtitleAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">13sp</item>
+    <item name="android:textColor">@color/main_text_lightgrey_color</item>
+</style>
+    <style name="ListViewTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">18sp</item>
+    <item name="android:textColor">@color/main_text_color</item>
+</style>
+    <style name="MediumGreyTextAppearance" parent="@style/MediumTextAppearance">
+    <item name="android:textColor">@color/main_text_lightgrey_color</item>
+</style>
+    <style name="MediumTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">16sp</item>
+    <item name="android:textColor">@color/main_text_color</item>
+</style>
+    <style name="MediumWhiteTextAppearance" parent="@style/MediumTextAppearance">
+    <item name="android:textColor">@color/white_color</item>
+</style>
+    <style name="MetaDataGenericTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">16sp</item>
+    <item name="android:textColor">@color/main_text_lightgrey_color</item>
+</style>
+    <style name="MetaDataTitleTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">22sp</item>
+    <item name="android:textColor">@color/main_text_color</item>
+</style>
+    <style name="SearchSubtitleTextAppearance" parent="@style/SmallWhiteTextAppearance">
+</style>
+    <style name="SettingsCheckboxTitleViewTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">18sp</item>
+    <item name="android:textColor">@color/white_color</item>
+</style>
+    <style name="SettingsListViewSubtitleAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">14sp</item>
+    <item name="android:textColor">@color/main_text_lightgrey_color</item>
+</style>
+    <style name="SettingsListViewTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">22sp</item>
+    <item name="android:textColor">@color/white_color</item>
+</style>
+    <style name="SettingsSubheaderTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">14sp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:textColor">@color/settings_subheader_text</item>
+</style>
+    <style name="SmallGreyTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">14sp</item>
+    <item name="android:textColor">@color/main_text_lightgrey_color</item>
+</style>
+    <style name="SmallWhiteTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">14sp</item>
+    <item name="android:textColor">@color/white_color</item>
+</style>
+    <style name="SpashTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">16sp</item>
+    <item name="android:textColor">@color/splashColor</item>
+</style>
+    <style name="Theme.Transparent" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@color/transparent_color</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+</style>
+    <style name="TitleBarTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">14sp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:textColor">@color/white_color</item>
+</style>
+    <style name="forgotPasswordLink" parent="@style/styleClickableText">
+    <item name="android:layout_alignParentBottom">true</item>
+    <item name="android:layout_alignParentLeft">true</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:textColor">@color/forgot_password_link_color</item>
+</style>
+    <style name="styleButton">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_gravity">center_vertical</item>
+    <item name="android:minWidth">120dp</item>
+</style>
+    <style name="styleClickableText" parent="@style/MediumTextAppearance">
+    <item name="android:focusable">true</item>
+    <item name="android:clickable">true</item>
+    <item name="android:textColor">@color/clickable_text_color</item>
+</style>
+    <style name="styleEditTextBoxLayout">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:singleLine">true</item>
+    <item name="android:textColor">@color/main_text_color</item>
+    <item name="android:inputType">textFilter</item>
+</style>
+    <style name="styleErrorMessageText">
+    <item name="android:textColor">@color/error_text_color</item>
+    <item name="android:gravity">center_vertical</item>
+    <item name="android:layout_marginTop">5dp</item>
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textAppearance">@style/MediumTextAppearance</item>
+    <item name="android:layout_gravity">center_vertical</item>
+</style>
+    <style name="styleFedIDSubDomainEditTextFieldLabel" parent="styleEditTextBoxLayout">
+  <item name="android:textSize">16sp</item>
+</style>
+    <style name="styleHelpMessageText">
+    <item name="android:textAppearance">@style/MediumGreyTextAppearance</item>
+    <item name="android:layout_gravity">center_vertical</item>
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+</style>
+    <style name="styleNumberButton">
+    <item name="android:layout_width">80dip</item>
+    <item name="android:layout_height">60dip</item>
+    <item name="android:textSize">24sp</item>
+    <item name="android:textAppearance">@style/MediumTextAppearance</item>
+    <item name="android:layout_gravity">center</item>
+</style>
+    <style name="stylePasswordEditTextFieldLabel" parent="styleEditTextBoxLayout">
+    <item name="android:password">true</item>
+    <item name="android:inputType">textPassword</item>
+</style>
+    <style name="stylePinEntryBox" parent="stylePasswordEditTextFieldLabel">
+    <item name="android:inputType">textFilter|textPassword|number</item>
+    <item name="android:digits">0123456789</item>
+    <item name="android:maxLength">1</item>
+    <item name="android:layout_width">60dip</item>
+    <item name="android:textSize">30sp</item>
+    <item name="android:gravity">center_horizontal|center_vertical</item>
+    <item name="android:layout_marginRight">5dip</item>
+</style>
+</resources>

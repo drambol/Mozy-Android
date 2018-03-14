@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  >
+
+    <ImageView
+      android:id="@+id/photo_fullscreen_img"
+      android:scaleType="fitCenter"
+      android:layout_width="fill_parent" 
+      android:layout_height="fill_parent"
+    />
+
+    <RelativeLayout
+         android:layout_width="fill_parent" 
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="15dp">
+
+        <RelativeLayout
+         android:id="@+id/photo_details_layout"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center"
+         android:visibility="invisible"
+         android:background="@+android:drawable/dialog_frame"
+         android:padding="25dp">
+
+        <TextView 
+            android:id="@+id/photo_details_headline"
+              android:ellipsize="middle"
+              android:textAppearance="@+style/MetaDataTitleTextAppearance"
+              android:textColor="@color/white_color"
+              android:text="@string/photo_details_headline"
+              android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="5dp"/>
+
+         <ImageView
+              android:id="@+id/photo_detail_div1"
+              android:scaleType="fitXY"
+              android:layout_height="wrap_content"
+               android:layout_width="fill_parent"
+              android:src="@+android:drawable/divider_horizontal_dark"
+               android:layout_below="@id/photo_details_headline"/>
+
+        <!-- Filename 2 rows -->
+        <TextView
+           android:id="@+id/photo_detail_label_filename"
+           android:ellipsize="middle"
+           android:textAppearance="@+style/MetaDataGenericTextAppearance"
+           android:textColor="@color/white_color"
+           android:textStyle="italic"
+           android:paddingTop="7dp"
+           android:layout_height="wrap_content"
+           android:layout_width="fill_parent"
+           android:text="@string/photo_detail_label_filename"
+           android:layout_below="@id/photo_detail_div1"/>
+
+         <TextView
+           android:id="@+id/photo_detail_filename"
+           android:textAppearance="@+style/MetaDataGenericTextAppearance"
+           android:textColor="@color/white_color"
+           android:ellipsize="middle"
+           android:lines="1"
+           android:scrollHorizontally="true"
+           android:layout_height="wrap_content"
+           android:layout_width="fill_parent"
+           android:text=""
+           android:layout_below="@id/photo_detail_label_filename"/>
+
+         <!-- Resolution 1 row -->
+         <TextView
+           android:id="@+id/photo_detail_label_resolution"
+           android:textAppearance="@+style/MetaDataGenericTextAppearance"
+           android:textColor="@color/white_color"
+           android:textStyle="italic"
+           android:ellipsize="middle"
+           android:layout_height="wrap_content"
+           android:layout_width="wrap_content"
+           android:text="@string/photo_detail_label_resolution"
+           android:paddingTop="7dp"
+           android:layout_below="@id/photo_detail_filename"/>
+
+         <TextView
+           android:id="@+id/photo_detail_resolution"
+           android:textAppearance="@+style/MetaDataGenericTextAppearance"
+           android:textColor="@color/white_color"
+           android:ellipsize="middle"
+           android:lines="1"
+           android:scrollHorizontally="true"
+           android:layout_height="wrap_content"
+           android:layout_width="wrap_content"
+           android:text=""
+           android:paddingTop="7dp"
+           android:layout_toRightOf="@id/photo_detail_label_resolution"
+           android:layout_below="@id/photo_detail_filename"/>
+
+         <!-- Kb size 1 row  -->
+         <TextView
+           android:id="@+id/photo_detail_label_kbsize"
+           android:textAppearance="@+style/MetaDataGenericTextAppearance"
+           android:textColor="@color/white_color"
+           android:textStyle="italic"
+           android:ellipsize="middle"
+           android:layout_height="wrap_content"
+           android:layout_width="wrap_content"
+           android:text="@string/photo_detail_label_kbsize"
+           android:paddingTop="7dp"
+           android:layout_below="@id/photo_detail_label_resolution"/>
+
+          <TextView
+           android:id="@+id/photo_detail_kbsize"
+           android:textAppearance="@+style/MetaDataGenericTextAppearance"
+           android:textColor="@color/white_color"
+           android:ellipsize="middle"
+           android:lines="1"
+           android:scrollHorizontally="true"
+           android:layout_height="wrap_content"
+           android:layout_width="wrap_content"
+           android:text=""
+           android:paddingTop="7dp"
+           android:layout_below="@id/photo_detail_label_resolution"
+           android:layout_toRightOf="@id/photo_detail_label_kbsize"/>
+
+         <!-- Taken date 1 row  -->
+         <TextView
+           android:id="@+id/photo_detail_label_taken_date"
+           android:textAppearance="@+style/MetaDataGenericTextAppearance"
+           android:textColor="@color/white_color"
+           android:textStyle="italic"
+           android:ellipsize="middle"
+           android:layout_height="wrap_content"
+           android:layout_width="wrap_content"
+           android:text="@string/photo_detail_label_taken_date"
+           android:paddingTop="7dp"
+           android:layout_below="@id/photo_detail_label_kbsize"/>
+
+          <TextView
+           android:id="@+id/photo_detail_taken_date"
+           android:textAppearance="@+style/MetaDataGenericTextAppearance"
+           android:textColor="@color/white_color"
+           android:ellipsize="middle"
+           android:lines="1"
+           android:scrollHorizontally="true"
+           android:layout_height="wrap_content"
+           android:layout_width="wrap_content"
+           android:text=""
+           android:paddingTop="7dp"
+           android:layout_below="@id/photo_detail_label_kbsize"
+           android:layout_toRightOf="@id/photo_detail_label_taken_date"/>
+
+         <!-- Camera  3 row  -->
+         <TextView
+           android:id="@+id/photo_detail_label_camera_manufacturer"
+           android:textAppearance="@+style/MetaDataGenericTextAppearance"
+           android:textColor="@color/white_color"
+           android:textStyle="italic"
+           android:ellipsize="middle"
+           android:layout_height="wrap_content"
+           android:layout_width="wrap_content"
+           android:text="@string/photo_detail_label_camera_manufacturer"
+           android:paddingTop="7dp"
+           android:layout_below="@id/photo_detail_label_taken_date"/>
+
+          <TextView
+           android:id="@+id/photo_detail_camera_manufacturer"
+           android:textAppearance="@+style/MetaDataGenericTextAppearance"
+           android:textColor="@color/white_color"
+           android:ellipsize="middle"
+           android:lines="1"
+           android:scrollHorizontally="true"
+           android:layout_height="wrap_content"
+           android:layout_width="wrap_content"
+           android:text=""
+           android:layout_below="@id/photo_detail_label_camera_manufacturer"/>
+
+          <TextView
+           android:id="@+id/photo_detail_camera_model"
+            android:textAppearance="@+style/MetaDataGenericTextAppearance"
+           android:textColor="@color/white_color"
+           android:ellipsize="middle"
+           android:lines="1"
+           android:scrollHorizontally="true"
+           android:layout_height="wrap_content"
+           android:layout_width="wrap_content"
+           android:text=""
+           android:layout_below="@id/photo_detail_camera_manufacturer"/>
+
+         </RelativeLayout>
+     </RelativeLayout>
+</FrameLayout>

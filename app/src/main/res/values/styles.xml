@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<style name="DefaultTheme" parent="android:Theme.Light">
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:listViewStyle">@style/DefaultList</item>
+<!--    <item name="android:textColor">#000</item>-->
+</style>
+<style name="TitleBarTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">14sp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:textColor">@color/white_color</item>
+</style>
+<style name="DefaultList" parent="@android:style/Widget.ListView">
+    <item name="android:divider">@color/main_background_color</item>
+    <item name="android:dividerHeight">0dp</item>
+</style>
+
+<style name="ListViewTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">18sp</item>
+    <item name="android:textColor">@color/main_text_color</item>
+</style>
+<style name="ListViewSecondaryTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">13sp</item>
+    <item name="android:textColor">@color/main_text_lightgrey_color</item>
+</style>
+<style name="ListViewSubtitleAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">13sp</item>
+    <item name="android:textColor">@color/main_text_lightgrey_color</item>
+</style>
+<style name="SettingsListViewTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">22sp</item>
+    <item name="android:textColor">@color/white_color</item>
+</style>
+<style name="SettingsCheckboxTitleViewTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">18sp</item>
+    <item name="android:textColor">@color/white_color</item>
+</style>
+<style name="SettingsListViewSubtitleAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">14sp</item>
+    <item name="android:textColor">@color/main_text_lightgrey_color</item>
+</style>
+<style name="SettingsSubheaderTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">14sp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:textColor">@color/settings_subheader_text</item>
+</style>
+<style name="SearchSubtitleTextAppearance" parent="@style/SmallWhiteTextAppearance">
+</style>
+
+<style name="MetaDataGenericTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">16sp</item>
+    <item name="android:textColor">@color/main_text_lightgrey_color</item>
+</style>
+
+<style name="MetaDataTitleTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">22sp</item>
+    <item name="android:textColor">@color/main_text_color</item>
+</style>
+
+<style name="LargeTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">18sp</item>
+     <item name="android:textColor">@color/main_text_color</item>
+</style>
+
+<style name="LargeGreyTextAppearance" parent="@style/LargeTextAppearance">
+    <item name="android:textColor">@color/main_text_lightgrey_color</item>
+</style>
+
+<style name="LargeWhiteTextAppearance" parent="@style/LargeTextAppearance">
+    <item name="android:textColor">@color/white_color</item>
+</style>
+
+<style name="MediumTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">16sp</item>
+    <item name="android:textColor">@color/main_text_color</item>
+</style>
+
+<style name="MediumGreyTextAppearance" parent="@style/MediumTextAppearance">
+    <item name="android:textColor">@color/main_text_lightgrey_color</item>
+</style>
+
+<style name="MediumWhiteTextAppearance" parent="@style/MediumTextAppearance">
+    <item name="android:textColor">@color/white_color</item>
+</style>
+
+<style name="SmallGreyTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">14sp</item>
+    <item name="android:textColor">@color/main_text_lightgrey_color</item>
+</style>
+
+<style name="SmallWhiteTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">14sp</item>
+    <item name="android:textColor">@color/white_color</item>
+</style>
+
+<style name="ExtraSmallWhiteTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">12sp</item>
+    <item name="android:textColor">@color/white_color</item>
+</style>
+
+<style name="SpashTextAppearance" parent="@android:style/TextAppearance">
+    <item name="android:textSize">16sp</item>
+    <item name="android:textColor">@color/splashColor</item>
+</style>
+
+<style name="styleEditTextBoxLayout">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:singleLine">true</item>
+    <item name="android:textColor">@color/main_text_color</item>
+    <item name="android:inputType">textFilter</item>
+</style>
+
+<style name="stylePasswordEditTextFieldLabel" parent="styleEditTextBoxLayout">
+    <item name="android:password">true</item>
+    <item name="android:inputType">textPassword</item>
+</style>
+
+<style name="styleFedIDSubDomainEditTextFieldLabel" parent="styleEditTextBoxLayout">
+  <item name="android:textSize">16sp</item>
+</style>
+
+<style name="stylePinEntryBox" parent="stylePasswordEditTextFieldLabel">
+    <item name="android:inputType">textFilter|textPassword|number</item>
+    <item name="android:digits">0123456789</item>
+    <item name="android:maxLength">1</item>
+    <item name="android:layout_width">60dip</item>
+    <item name="android:textSize">30sp</item>
+    <item name="android:gravity">center_horizontal|center_vertical</item>
+    <item name="android:layout_marginRight">5dip</item>
+</style>
+
+<style name="styleErrorMessageText">
+    <item name="android:textColor">@color/error_text_color</item>
+    <item name="android:gravity">center_vertical</item>
+    <item name="android:layout_marginTop">5dp</item>
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textAppearance">@style/MediumTextAppearance</item>
+    <item name="android:layout_gravity">center_vertical</item>
+</style>
+
+<style name="styleHelpMessageText">
+    <item name="android:textAppearance">@style/MediumGreyTextAppearance</item>
+    <item name="android:layout_gravity">center_vertical</item>
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+</style>
+
+<style name="styleButton">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_gravity">center_vertical</item>
+    <item name="android:minWidth">120dp</item>
+</style>
+
+<style name="styleNumberButton">
+    <item name="android:layout_width">80dip</item>
+    <item name="android:layout_height">60dip</item>
+    <item name="android:textSize">24sp</item>
+    <item name="android:textAppearance">@style/MediumTextAppearance</item>
+    <item name="android:layout_gravity">center</item>
+</style>
+
+<style name="styleClickableText" parent="@style/MediumTextAppearance">
+    <item name="android:focusable">true</item>
+    <item name="android:clickable">true</item>
+    <item name="android:textColor">@color/clickable_text_color</item>
+</style>
+
+<style name="forgotPasswordLink" parent="@style/styleClickableText">
+    <item name="android:layout_alignParentBottom">true</item>
+    <item name="android:layout_alignParentLeft">true</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:textColor">@color/forgot_password_link_color</item>
+</style>
+
+<style name="ActionButtonStyle">
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:textColor">#FF9A9A9A</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:background">#00FFFFFF</item>
+    <item name="android:clickable">true</item>
+</style>
+
+<style name="Theme.Transparent" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@color/transparent_color</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+</style>
+</resources>

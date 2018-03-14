@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="main_background_color">#ffffffff</color>
+<color name="main_text_color">#ff1f1f1f</color>
+<color name="main_text_lightgrey_color">#ff999999</color>
+<color name="transparent_color">#00000000</color>
+<color name="clickable_text_color">#3399cc</color>
+<color name="forgot_password_link_color">#ff9900</color>
+<color name="error_text_color">#ff0000</color>
+<color name="error_box_color">#ffffc0</color>
+<color name="download_more_color">#aa000000</color>
+<color name="white_color">#ffffff</color>
+<color name="settings_subheader_background">#212021</color>
+<color name="settings_subheader_text">#ff999999</color>
+<color name="grid_item_border">#eeeeee</color>
+<color name="splashColor">#D3D3D3</color>
+</resources>
